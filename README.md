@@ -1,9 +1,9 @@
-Project-Sentry-Gun
+Project-Webcam-Sentry
 ==================
-Project Site: http://psg.rudolphlabs.com/
 
-This is an open-scource code project from Rudolph Labs. See the website above for more information.
-Initiated by Bob Rudolph (sentryGun53)
 
-projectSentryGun@rudolphLabs.com
-sentryGun53@gmail.com
+This is an open-scource project based around the Project-Sentry-Gun by Rudolph Labs
+
+ToDo:
+1. Modify Processing code and libraries to work under latest release of Processing
+2. Modify Arduino code and libraries to work under latest release of Arduino
